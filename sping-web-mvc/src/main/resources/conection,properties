@@ -1,0 +1,5 @@
+jdbc.driver=mysql
+db.adress=localhost:3306
+db.name=jedi
+db.user.login=root
+db.user.password=G210674c!
